@@ -47,3 +47,5 @@ interpolation.printSystemOfEquations();
 ```
 
 There are also a few more commands for matrices etc. like matrix.printMatrix(), ...
+
+Currently there are a few debug logs integrated showing the different calculation steps. These debug logs can not be disabled and - if needed - have to be deleted from the source code.  
